@@ -8,15 +8,12 @@ class TesteMesa{
 
         while(a < 6){
             V[a] = 10 * a;
+            Console.Write($"V[a] = {V[a]}");
             a++;
 
-          //  Console.WriteLine(V[a]);
-
+            Console.WriteLine($"  Contador: {a}");
         }
-
-            for(int i = 0; i < V.Length; i++){
-                Console.Write($"{V[i]},");
-            }
+           
     }
 
 }

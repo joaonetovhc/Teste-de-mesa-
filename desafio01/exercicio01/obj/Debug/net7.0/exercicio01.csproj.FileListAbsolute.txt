@@ -1,0 +1,14 @@
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\bin\Debug\net7.0\exercicio01.exe
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\bin\Debug\net7.0\exercicio01.deps.json
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\bin\Debug\net7.0\exercicio01.runtimeconfig.json
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\bin\Debug\net7.0\exercicio01.dll
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\bin\Debug\net7.0\exercicio01.pdb
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\exercicio01.AssemblyInfoInputs.cache
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\exercicio01.AssemblyInfo.cs
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\exercicio01.csproj.CoreCompileInputs.cache
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\exercicio01.dll
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\refint\exercicio01.dll
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\exercicio01.pdb
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\exercicio01.genruntimeconfig.cache
+D:\BNE\Teste de mesa\Teste-de-mesa-\desafio01\exercicio01\obj\Debug\net7.0\ref\exercicio01.dll

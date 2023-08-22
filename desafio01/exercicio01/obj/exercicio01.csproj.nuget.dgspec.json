@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio02\\exercicio01.csproj": {}
+    "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio01\\exercicio01.csproj": {}
   },
   "projects": {
-    "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio02\\exercicio01.csproj": {
+    "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio01\\exercicio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio02\\exercicio01.csproj",
+        "projectUniqueName": "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio01\\exercicio01.csproj",
         "projectName": "exercicio01",
-        "projectPath": "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio02\\exercicio01.csproj",
+        "projectPath": "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio01\\exercicio01.csproj",
         "packagesPath": "C:\\Users\\João Neto\\.nuget\\packages\\",
-        "outputPath": "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio02\\obj\\",
+        "outputPath": "D:\\BNE\\Teste de mesa\\Teste-de-mesa-\\desafio01\\exercicio01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\João Neto\\AppData\\Roaming\\NuGet\\NuGet.Config",
